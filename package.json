@@ -1,0 +1,11 @@
+{
+  "name": "itp_final_exam",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/felixoppongwillborg/itp_final_exam.git",
+  "author": "felixoppongwillborg",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^4.7.0"
+  }
+}
